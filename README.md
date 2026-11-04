@@ -1,6 +1,10 @@
 # Omarchy Reze Theme
 
-A custom Reze (Chainsaw Man) inspired theme for Omarchy Linux.
+A custom Reze (Chainsaw Man) inspired theme for [Omarchy Linux](https://omarchy.org/).
+
+## Previews
+![Preview](preview.png)
+![Lock Screen](preview-unlock.png)
 
 ## Installation
 
