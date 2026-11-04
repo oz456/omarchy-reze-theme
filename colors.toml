@@ -1,10 +1,10 @@
 # Omarchy Reze Theme Palette
-# Pitch-black canvas (#0A0A0A) ignited by Bomb Devil crimson (#E63946) and twilight purple
+# Deep pitch-black canvas ignited by sharp Bomb Devil crimson and dark graphite
 
 mode = "dark"
 
 accent = "#E63946"
-selection = "#2D1217"
+selection = "#241014"
 muted = "#6B6568"
 
 background = "#0A0A0C"
@@ -17,24 +17,24 @@ dark_foreground = "#8E8890"
 light_foreground = "#D8D6DC"
 bright_foreground = "#FFFFFF"
 
-hyprland_active_border = "rgba(e63946ee) rgba(9d4eddee) 45deg"
-hyprland_inactive_border = "rgba(6b656855)"
+hyprland_active_border = "rgba(e63946ee) rgba(b5172bee) 45deg"
+hyprland_inactive_border = "rgba(40404866)"
 
 active_border_color = "#E63946"
-active_tab_background = "#2D1217"
+active_tab_background = "#241014"
 
 red = "#E63946"
-yellow = "#F4A261"
-orange = "#E76F51"
+yellow = "#E9C46A"
+orange = "#F4A261"
 green = "#2A9D8F"
 cyan = "#48CAE4"
-blue = "#3A86FF"
-magenta = "#9D4EDD"
+blue = "#457B9D"
+magenta = "#9B2226"
 brown = "#BC6C25"
 
 bright_red = "#FF4D5E"
-bright_yellow = "#FFB373"
+bright_yellow = "#F4D06F"
 bright_green = "#36BFAE"
 bright_cyan = "#90E0EF"
 bright_blue = "#60A5FA"
-bright_magenta = "#C77DFF"
+bright_magenta = "#C1121F"
